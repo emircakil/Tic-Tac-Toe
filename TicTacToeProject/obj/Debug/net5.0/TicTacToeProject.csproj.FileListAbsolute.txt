@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\bin\Debug\net5.0\TicTacToeProject.exe
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\bin\Debug\net5.0\TicTacToeProject.deps.json
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\bin\Debug\net5.0\TicTacToeProject.runtimeconfig.json
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\bin\Debug\net5.0\TicTacToeProject.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\bin\Debug\net5.0\TicTacToeProject.dll
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\bin\Debug\net5.0\TicTacToeProject.pdb
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\net5.0\TicTacToeProject.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\net5.0\TicTacToeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\net5.0\TicTacToeProject.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\net5.0\TicTacToeProject.AssemblyInfo.cs
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\net5.0\TicTacToeProject.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\net5.0\TicTacToeProject.dll
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\net5.0\refint\TicTacToeProject.dll
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\net5.0\TicTacToeProject.pdb
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\net5.0\TicTacToeProject.genruntimeconfig.cache
+C:\Users\emir7\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\net5.0\ref\TicTacToeProject.dll
